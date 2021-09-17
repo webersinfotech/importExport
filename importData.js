@@ -100,7 +100,8 @@ async function fetchHTML(code) {
 
             const browser = await puppeteer.launch({
                 defaultViewport: null,
-                headless: true
+                headless: true,
+                args: ['--no-sandbox']
             });
 
             let HSNs
