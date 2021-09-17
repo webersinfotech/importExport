@@ -1,0 +1,25 @@
+{
+  "name": "importExport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cheerio": "^1.0.0-rc.10",
+    "cloudinary": "^1.27.0",
+    "file-extension": "^4.0.5",
+    "googleapis": "^85.0.0",
+    "mime-types": "^2.1.32",
+    "mysql": "^2.18.1",
+    "puppeteer": "^10.2.0",
+    "qs": "^6.10.1",
+    "save": "^2.4.0",
+    "uuidv4": "^6.2.12"
+  }
+}

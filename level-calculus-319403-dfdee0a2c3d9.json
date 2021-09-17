@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "level-calculus-319403",
+  "private_key_id": "dfdee0a2c3d9d6a80a8f02d70e96cee5d53957f0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDSZbw61s/E7Xbb\ntCtRtKV1b0lm7pB8crnOtatIHh9JYkr2UsWW31WbtHO7pylpZ/QFRwnOB+U2IQdk\nsn59l1vMMUP/EjOYuSvghw5e/8kyFGR656JItLmwtez1z7r01CNr5ZPzXBm0Ckcz\nQs27mkxTrHhuhEcamvWfiWZ6GNbf8J9ofg4CJ9Mz+DxXspX+D2vmILyT8FiqcU63\nBSDcq2rLyK+KHs+OuFT3y7mby+9mqjmBsuMNWCaJkX50zGqzIIbD763TFSHoOnqw\nhebVXV2ExSVf4xNxRnpoV5c8r5vNl6+XVFzg3UAKLoSmS1IdomSDerOgzEo/aNXI\nFpJ8KzU5AgMBAAECggEAH1kuslKi2uvpz4L5CF/C3mxCMs69YvmCE1lQp7prPXci\nhbCgBaKJoh1BODbILg8h1e53eMYG4imKLTgGLkbQ0+wMPlNTMkB21+mvm7p/WxGc\nRg7AyJX66+gzYg29RLDeBTvL71Dr+H4mjS35Muhi0n3KZOcbJAzuJ4LkrLEKRQvT\nIDoC/hjhIz2FxUWTUEYTnZ0q4gRNsWr8Rn9C/pRU53S3Y/9kilHBZi+7k7TvVS6m\naofL719achkXuRkgUQ9Kxe/K9J0aOC+KwAxHHBbLSMy1g5+iUCX9YASNvMkGqTct\njKwJAfgmzkfzQoj3pxKq/gASgPJ0YoSHnqoaNWaELQKBgQD2WgRDBnPnE3x6rXmY\n5glYQCqcsGvAhECMYt6sXOt/4N9TDnB3qjWrDKpLLgxsZHmAIZd2Tm2PdUOaYBUu\ngeAd2fs7uuAY+ffze+nBIzoYtCfpRmBWSpTjA47LnXyEd84gJ+wMxP+v5asE1slM\nDvwgf9wx1yZMH0Yb1t5tqdz3pQKBgQDaozuHaBzIgHIVDX1keG6hzbmNBIbI0+/y\nO9VNJTHtnEPEZpUMuu3v3BeCCljThg+fdkSPTTNBMB6Fn59i/QFc6DxmfwBjtIfB\nUbJa8hAzDqFNoUOBd8YwyaYLgn+ZfrPrAEkajfGIcyTjdEs7d1t5YWa+bTCIbsZo\nMX84hEqzBQKBgQCAe0olusPQDHWrdbYpbDALesu+lLRd35vam+YOdxfLxfgzVSCL\nCJac8yoNs6J/FZfYn6xi41x4qWvso5fofYvphbpl2HzwCc6rikDLnhe6spruKuor\nlxI3o69hum0qmWFDnA6cSlIf5uRezbaGmHoeaRDqXY93vAfQlSvEfgbkkQKBgQDI\nEMpuU6TTDEZYYWm2wEVsJlZ+Zf/4UYelv36mAz020uFoHP6TEZKdBGc2hcVWebxe\nDNkb0GbwZdnoKHKvIBlZLOHoYJq4of//tIRimFKeheqwoLqnBDUFe+BHc/jTOo/k\noPREKlM0qzi8MjSNi+DWp3xfEIdysPs5aOGjk9rPCQKBgEu1sW5BZelQ2YD+qJxk\n8RnDMYSm44vlWsxP2Fn3WpvC1HjaBpoGITtaPmE6Qe0k1w4zVZgK03VgMKzH9zeF\n7L8qSuReegtbWTS2yg2rZhUAnYpAn8A+GlSX+smSiCnDfDuq9s9IM2gfDQ+V/K8U\naDZWqPZf9OFuBgh7HsloX7Ik\n-----END PRIVATE KEY-----\n",
+  "client_email": "puppeteertest@level-calculus-319403.iam.gserviceaccount.com",
+  "client_id": "103599375842083409207",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/puppeteertest%40level-calculus-319403.iam.gserviceaccount.com"
+}
