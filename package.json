@@ -15,6 +15,7 @@
     "cloudinary": "^1.27.0",
     "file-extension": "^4.0.5",
     "googleapis": "^85.0.0",
+    "knex": "^0.95.11",
     "mime-types": "^2.1.32",
     "mysql": "^2.18.1",
     "puppeteer": "^10.2.0",
