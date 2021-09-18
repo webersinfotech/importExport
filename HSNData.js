@@ -22,8 +22,6 @@ async function fetchHTML(code) {
         'submitbutton': 'Search' 
     });
 
-    console.log(postData)
-
     var config = {
         method: 'post',
         url: 'https://www.icegate.gov.in/Webappl/Tariff-head-details',
@@ -69,11 +67,11 @@ async function fetchHTML(code) {
 
         async function launchCluster() {
             const clusterLaunch = cluster.fork()
-            // clusterLaunch.on('exit', async (worker, code, signal) => {
-            //     console.log(`worker died`);
+            clusterLaunch.on('exit', async (worker, code, signal) => {
+                console.log(`worker died`);
     
-            //     await launchCluster()
-            // });
+                await launchCluster()
+            });
             await timeout(3000)
             return
         }
