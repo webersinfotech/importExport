@@ -135,7 +135,7 @@ async function fetchHTML(code) {
 
                 for (let HSNDetail of HSNDetails) {
                     const existingHSNs = await knex.select('id').from('importExport').where({HSN: HSNDetail.HSN})
-                    if (existingHSNs.length) {
+                    if (existingHSNs.length && existingHSNs[0].detailsStatus !== 'SUCCESS') {
                         await knex('importExport').where({id: existingHSNs[0].id}).update({
                             detailsStatus: 'SUCCESS',
                             description: HSNDetail.description,
